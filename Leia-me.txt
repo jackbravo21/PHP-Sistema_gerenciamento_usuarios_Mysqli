@@ -1,0 +1,27 @@
+Olá.
+
+Este sistema foi desenvolvido por "Michael Douglas Mognon".
+
+O Banco de dados foi abastecido com usuários fictícios para teste.
+
+
+Sistema de gerenciamento de usuários.
+- Padrão de projeto MVC.
+- Uso do framework Smarty para PHP, separando o FrontEnd do BackEnd.
+- Login, Sessão, áreas protegidas pela sessão.
+- Listar usuários e funcionários, com impressão que elimina a tela do restante dos menus.
+- Editar usuários e funcionários, mudando seus dados.
+- Insere usuários novos.
+- Exclui usuários, com tela de questionamento.
+- Menu de busca, separado por categorias de busca.
+- Finalização de sessão.
+- Projeto com conexão MYSQLI.
+
+
+Caso você necessite de algum auxilio, pode enviar um email para "m@jackbravo21.com.br".
+
+Boa analise de código.
+
+
+
+
