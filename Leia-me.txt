@@ -1,26 +1,26 @@
-Ol·.
+Ol√°.
 
-Este sistema foi desenvolvido por "Michael Douglas Mognon".
+Este sistema foi desenvolvido por "Michael Douglas" ou "Jack Bravo 21".
 
-O Banco de dados foi abastecido com usu·rios fictÌcios para teste.
+O Banco de dados foi abastecido com usu√°rios fict√≠cios para teste.
 
 
-Sistema de gerenciamento de usu·rios.
-- Padr„o de projeto MVC.
+Sistema de gerenciamento de usu√°rios.
+- Padr√£o de projeto MVC.
 - Uso do framework Smarty para PHP, separando o FrontEnd do BackEnd.
-- Login, Sess„o, ·reas protegidas pela sess„o.
-- Listar usu·rios e funcion·rios, com impress„o que elimina a tela do restante dos menus.
-- Editar usu·rios e funcion·rios, mudando seus dados.
-- Insere usu·rios novos.
-- Exclui usu·rios, com tela de questionamento.
+- Login, Sess√£o, √°reas protegidas pela sess√£o.
+- Listar usu√°rios e funcion√°rios, com impress√£o que elimina a tela do restante dos menus.
+- Editar usu√°rios e funcion√°rios, mudando seus dados.
+- Insere usu√°rios novos.
+- Exclui usu√°rios, com tela de questionamento.
 - Menu de busca, separado por categorias de busca.
-- FinalizaÁ„o de sess„o.
-- Projeto com conex„o MYSQLI.
+- Finaliza√ß√£o de sess√£o.
+- Projeto com conex√£o MYSQLI.
 
 
-Caso vocÍ necessite de algum auxilio, pode enviar um email para "m@jackbravo21.com.br".
+Caso voc√™ necessite de algum auxilio, pode enviar um email para "m@jackbravo21.com.br".
 
-Boa analise de cÛdigo.
+Boa analise de c√≥digo.
 
 
 
